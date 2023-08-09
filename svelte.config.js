@@ -17,6 +17,24 @@ const config = {
 			precompress: false,
 			ssr: true
 		}),
+		prerender: {
+            handleHttpError: ({ status, path, referrer, referenceType }) => {
+                if (
+                    path.startsWith('/backend/') ||
+                    path.startsWith('/static/') ||
+                    path.startsWith('/search/')
+                ) {
+                    //do nothing as it links to backend
+                } else {
+                    throw new Error(
+                        path +
+                            ' Missing link.' +
+                            `${status} ${path}${referrer ? ` (${referenceType} from ${referrer})` : ''}`
+                    );
+                }
+                console.warn(`${status} ${path}${referrer ? ` (${referenceType} from ${referrer})` : ''}`);
+            }
+        }
 	}
 };
 export default config;

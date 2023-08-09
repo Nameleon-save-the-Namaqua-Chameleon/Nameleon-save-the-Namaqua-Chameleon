@@ -37,7 +37,7 @@
     https://www.svgrepo.com/svg/520690/diamond
     https://www.svgrepo.com/svg/224155/vision
     https://www.svgrepo.com/svg/488688/space-shuttle
-    
+
 -->
 
     {#if browser}
@@ -57,71 +57,71 @@
             <div class="flex items-center grow w-full justify-center max-h-[40rem]" >
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="src/docs/images/nameleon_1.webp"
+                src="static/images/nameleon_1.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="src/docs/images/nameleon_1.webp"
+                src="static/images/nameleon_1.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="src/docs/images/nameleon_2.webp"
+                src="static/images/nameleon_2.webp"
                 alt="..." />
                 <img
                 class="object-cover w-full grow z-0 blur pointer-events-none"
-                src="src/docs/images/nameleon_2.webp"
+                src="static/images/nameleon_2.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="src/docs/images/nameleon_3.webp"
+                src="static/images/nameleon_3.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="src/docs/images/nameleon_3.webp"
+                src="static/images/nameleon_3.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="src/docs/images/nameleon_4.webp"
+                src="static/images/nameleon_4.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="src/docs/images/nameleon_4.webp"
+                src="static/images/nameleon_4.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="src/docs/images/nameleon_5.webp"
+                src="static/images/nameleon_5.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="src/docs/images/nameleon_5.webp"
+                src="static/images/nameleon_5.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="src/docs/images/nameleon_6.webp"
+                src="static/images/nameleon_6.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="src/docs/images/nameleon_6.webp"
+                src="static/images/nameleon_6.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="src/docs/images/nameleon_7.webp"
+                src="static/images/nameleon_7.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="src/docs/images/nameleon_7.webp"
+                src="static/images/nameleon_7.webp"
                 alt="..." />
             </div>
         </Carousel>
@@ -138,7 +138,7 @@
     
         <div class="flex">
             <h1 class="content-heading">Background of the organisation</h1>
-            <img src="src/docs/images/background-svgrepo-com.svg" alt="..." width="40px">
+            <img src="static/images/background-svgrepo-com.svg" alt="..." width="40px">
         </div>
 
         <blockquote class="content-blockquote">

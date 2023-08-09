@@ -6,7 +6,7 @@
 
 <div class="flex">
     <h1 class="content-heading">Values statement</h1>
-    <img src="src/docs/images/diamond-svgrepo-com.svg" alt="..." width="40px">
+    <img src="static/images/diamond-svgrepo-com.svg" alt="..." width="40px">
 </div>
 
 <blockquote class="content-blockquote">
@@ -18,7 +18,7 @@
 <div class="grid md:grid-cols-2 max-md:grid-cols-1 pt-4">
     <div class="card p-4 m-1 border border-5 border-[#D17208]">
         <div class="flex">
-            <img src="src/docs/images/bank-svgrepo-com.svg" alt="..." width="30px">
+            <img src="static/images/bank-svgrepo-com.svg" alt="..." width="30px">
             <b class="text-lg underline underline-offset-4 decoration-[#D17208] ml-2">Trust:</b><br>
         </div>
         
@@ -32,7 +32,7 @@
     <div class="card p-4 m-1 border border-5 border-[#B93F4A]
     ">
     <div class="flex">
-        <img src="src/docs/images/collaboration-picture-visualize-person-svgrepo-com.svg" alt="..." width="30px">
+        <img src="static/images/collaboration-picture-visualize-person-svgrepo-com.svg" alt="..." width="30px">
         <b class="text-lg underline underline-offset-4 decoration-[#B93F4A] ml-2">Collaboration:</b>
     </div>
         <blockquote class="mt-1 text-sm">
@@ -46,7 +46,7 @@
     
     ">
     <div class="flex">
-        <img src="src/docs/images/burden-depression-responsibility-difficulty-svgrepo-com.svg" alt="..." width="30px">
+        <img src="static/images/burden-depression-responsibility-difficulty-svgrepo-com.svg" alt="..." width="30px">
         <b class="text-lg underline underline-offset-4 decoration-[#98B1D8] ml-2">Accountability:</b>
     </div>
         <blockquote class="mt-1 text-sm">
@@ -60,7 +60,7 @@
     
     ">
     <div class="flex">
-        <img src="src/docs/images/science-think-svgrepo-com.svg" alt="..." width="30px">
+        <img src="static/images/science-think-svgrepo-com.svg" alt="..." width="30px">
         <b class="text-lg underline underline-offset-4 decoration-[#26D7D9] ml-2">Science-based Approach:</b>
     </div>
         <blockquote class="mt-1 text-sm">
@@ -74,7 +74,7 @@
     
     ">
     <div class="flex">
-        <img src="src/docs/images/creativity-visualize-visual-imagine-svgrepo-com.svg" alt="..." width="30px">
+        <img src="static/images/creativity-visualize-visual-imagine-svgrepo-com.svg" alt="..." width="30px">
         <b class="text-lg underline underline-offset-4 decoration-[#6B9B2A] ml-2">Imagination and Perseverance:</b>
     </div>
         <blockquote class="mt-1 text-sm">
@@ -89,7 +89,7 @@
     
     ">
     <div class="flex">
-        <img src="src/docs/images/leadership-svgrepo-com.svg" alt="..." width="30px">
+        <img src="static/images/leadership-svgrepo-com.svg" alt="..." width="30px">
         <b class="text-lg underline underline-offset-4 decoration-[#8B910A] ml-2">Leadership:</b>
     </div>
         <blockquote class="mt-1 text-sm">
@@ -111,7 +111,7 @@
 
 <div class="flex">
     <h1 class="content-heading">Our objectives</h1>
-    <img src="src/docs/images/objective-svgrepo-com.svg" alt="..." width="30px">
+    <img src="static/images/objective-svgrepo-com.svg" alt="..." width="30px">
 </div>
 
 

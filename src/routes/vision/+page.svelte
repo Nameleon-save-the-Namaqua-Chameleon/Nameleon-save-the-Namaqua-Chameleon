@@ -6,7 +6,7 @@
 <div class="content-div">
     <div class="flex">
         <h1 class="content-heading">Vision statement</h1>
-        <img src="src/docs/images/vision-svgrepo-com.svg" alt="..." width="40px">
+        <img src="static/images/vision-svgrepo-com.svg" alt="..." width="40px">
     </div>
     
     <blockquote class="content-blockquote">

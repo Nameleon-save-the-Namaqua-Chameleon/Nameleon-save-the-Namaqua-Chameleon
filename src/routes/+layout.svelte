@@ -78,10 +78,6 @@
 			<div class="z-40 bg-primary-900 grow w-full overflow-hidden bg-opacity-60 h-12">
 				<div class="grow-0 float-left pt-2 pl-1">
 						<button class="btn btn-sm bg-primary-500" on:click={menuButton_onClick}>
-							<!-- <img src="src/docs/images/menu_icon.svg" alt="..." height=50px width=50px />
-							<svg  height=50px width=50px xmlns="src/docs/images/menu_icon.svg">
-								<use xlink:href="src/docs/images/menu_icon.svg"></use>
-							</svg> -->
 							<div class="space-y-2">
 								<div class="w-7 h-0.5 bg-secondary-500"></div>
 								<div class="w-7 h-0.5 bg-secondary-500"></div>
