@@ -34,7 +34,7 @@ jobs:
       - run: pnpm i # Run install
       - run: pnpm run build # Run build
       - run: dir
-      - run: cp -a static/. ./build/ # Copy missing files to build folder
+      - run: cp -a static/. ./build/static/ # Copy missing files to build folder
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
