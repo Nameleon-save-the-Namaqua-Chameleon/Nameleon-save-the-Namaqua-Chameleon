@@ -57,71 +57,71 @@
             <div class="flex items-center grow w-full justify-center max-h-[40rem]" >
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="static/images/nameleon_1.webp"
+                src="/images/nameleon_1.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="static/images/nameleon_1.webp"
+                src="/images/nameleon_1.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="static/images/nameleon_2.webp"
+                src="/images/nameleon_2.webp"
                 alt="..." />
                 <img
                 class="object-cover w-full grow z-0 blur pointer-events-none"
-                src="static/images/nameleon_2.webp"
+                src="/images/nameleon_2.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="static/images/nameleon_3.webp"
+                src="/images/nameleon_3.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="static/images/nameleon_3.webp"
+                src="/images/nameleon_3.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="static/images/nameleon_4.webp"
+                src="/images/nameleon_4.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="static/images/nameleon_4.webp"
+                src="/images/nameleon_4.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="static/images/nameleon_5.webp"
+                src="/images/nameleon_5.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="static/images/nameleon_5.webp"
+                src="/images/nameleon_5.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="static/images/nameleon_6.webp"
+                src="/images/nameleon_6.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="static/images/nameleon_6.webp"
+                src="/images/nameleon_6.webp"
                 alt="..." />
             </div>
             <div class="flex items-center grow w-full justify-center max-h-[40rem]">
                 <img
                 class="absolute object-contain h-4/5 w-4/5 z-10 pointer-events-none"
-                src="static/images/nameleon_7.webp"
+                src="/images/nameleon_7.webp"
                 alt="..." />
                 <img
                 class="object-fill w-full grow z-0 blur pointer-events-none"
-                src="static/images/nameleon_7.webp"
+                src="/images/nameleon_7.webp"
                 alt="..." />
             </div>
         </Carousel>
